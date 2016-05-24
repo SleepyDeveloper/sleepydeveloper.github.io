@@ -7,8 +7,8 @@
 
 # Site settings
 title: Justin Jeffress
-email: sleepydeveloper@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+email: justin.jeffress@gmail.com
+description: >
   日本に憧れているアメリカ人です。２年間横浜に住み、東京で１年間働いた経験があります。
   American who admires Japan. Lived in Yokohama for 2 years and worked in Tokyo for 1 year.
 baseurl: "" # the subpath of your site, e.g. /blog
