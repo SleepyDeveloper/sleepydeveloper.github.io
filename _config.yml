@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: SleepyDeveloper
+email: sleepydeveloper@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  日本に憧れているアメリカ人です。２年間横浜に住み、東京で１年間働いた経験があります。
+  American who admires Japan. Lived in Yokohama for 2 years and worked in Tokyo for 1 year.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://sleepydeveloper.github.io" # the base hostname & protocol for your site
+twitter_username: sleepydeveloper
+github_username:  sleepydeveloper
+
+# Build settings
+markdown: kramdown
