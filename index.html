@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h2>Work History / 職歴</h2>
+  <h2>Experience / 職歴</h2>
   <hr /><br />
   <ul class="post-list">
     <li>
@@ -182,7 +182,7 @@ layout: default
     </li>
   </ul>
 
-  <h2>School / 学歴</h2>
+  <h2>Education / 学歴</h2>
   <hr /><br />
   <ul class="post-list">
     <li>
@@ -216,11 +216,13 @@ layout: default
         <p>
           Co-founded a Japanese and English language exchange group.
 
-          Built a <a href='https://kaiwa-club.herokuapp.com/admin/meetups/5'>rails app</a> to track attendence, and visualize the
-          weekly ratio of Native Japanese and Non-native Japanese speakers.
-          Create marketing material and adjust tactics based on the weekly ratio
-          in order to preserve a near 1:1 ratio of Native Japanese to Non-native
-          Japanese speakers.
+          Built a <a target="_blank"
+          href='https://kaiwa-club.herokuapp.com/admin/meetups/2016-08-15'>
+          rails app</a> to track attendence, and visualize the weekly ratio of
+          Native Japanese and Non-native Japanese speakers. Create marketing
+          material and adjust tactics based on the weekly ratio in order to
+          preserve a near 1:1 ratio of Native Japanese to Non-native Japanese
+          speakers.
         </p>
         <p>
           Create English and Japanese lesson plans. Lead the meetup group and Introduce
@@ -237,7 +239,8 @@ layout: default
       </div>
     </li>
     <li>
-      <strong>Ad-Poster</strong> (<a href="https://github.com/SleepyDeveloper/ad_poster">see on git</a>)
+      <strong>Ad-Poster</strong> (<a target="target"
+      href="https://github.com/SleepyDeveloper/ad_poster">see on github</a>)
       <p>
         I manage posting advertisments to a third party site for two Japanese
         meetup groups in the Los Angeles area where the information in the
@@ -254,6 +257,32 @@ layout: default
         variables.
       </p>
     </li>
-
+    <li>
+      <strong>JMDict</strong> (<a target="_blank"
+      href="https://github.com/SleepyDeveloper/jmdict">see on github</a>)
+      <p>
+        Created a ruby gem to handle the
+        <a href="http://www.edrdg.org/jmdict/j_jmdict.html"
+        target="_blank">JMDict Project</a>
+        files. The full JMDict XML file is too big for Nokogiri to load in a
+        reasonable amount of time. The Gem features a tool for splitting the XML
+        file into files with 1000 entries. The gem can also convert the XML file
+        into JSON and Objects that represent the various JMDict Objects.
+      </p>
+    </li>
+    <li>
+      <strong>Glossary</strong> (not yet released to github)
+      <p>
+        A rails app with a model based on the <a target="_blank"
+        href="http://www.edrdg.org/jmdict/j_jmdict.html">JMDict Project</a>. The
+        underlying database engine is Postgresql.
+      </p>
+      <p>
+        A set of ruby scripts that directly connect to the glossary app's
+        database to look up lists of words and create TSV files for an iOS
+        flashcards app that I use to study for the <a target="_blank"
+        href="http://www.kanken.or.jp">Kanken</a> (Japanese Webpage).
+      </p>
+    </li>
   </ul>
 </div>
