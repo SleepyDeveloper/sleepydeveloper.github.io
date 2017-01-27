@@ -1,0 +1,23 @@
+<div>
+  <img style="float: right; margin: -15px 0px 0px 0px;"
+   src="/assets/profile.jpg"
+    height="150px" width="150px" />
+</div>
+<div style="height:150px;">
+  <ul class="social-media-list">
+    <li>
+      {% include icon-gmail.html %}
+    </li>
+    {% if site.github_username %}
+    <li>
+      {% include icon-github.html username=site.github_username %}
+    </li>
+    {% endif %}
+
+    {% if site.twitter_username %}
+    <li>
+      {% include icon-twitter.html username=site.twitter_username %}
+    </li>
+    {% endif %}
+  </ul>
+</div>
