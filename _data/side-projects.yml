@@ -1,0 +1,14 @@
+- title: Ad Poster
+  link: https://github.com/SleepyDeveloper/ad_poster
+  technology: Ruby, JSON, Selenium, Watir, Dotenv
+  summary: Automatically posts advertisements for Kaiwa Club and other Japanese Meetup groups to a popular advertising site using <b>Selenium</b> and <b>Watir</b>. Ad content is configured via a json file. Adheres to 12-factor application principles by using <b>dotenv</b> to manage login credentials.
+
+- title: JMDict
+  link: https://github.com/SleepyDeveloper/jmdict
+  technology: Ruby, XML, JSON, Nokogiri, Trollop
+  summary: A ruby gem for processing the <a href="http://www.edrdg.org/jmdict/j_jmdict.html" target="_blank">JMDict Project</a> XML files. Splits the main XML file into smaller chunks and uses <b>Nokogiri</b> and <b>xpath</b> to convert the XML file into JSON and provides objects that represent the various JMDICT entities Word, Sense, Gloss, etc.
+
+- title: Glossary
+  link:
+  technology: Ruby, Ruby on Rails, Postgresql, Trollop
+  summary: A rails app with a database based on the <a target="_blank" href="http://www.edrdg.org/jmdict/j_jmdict.html">JMDict Project</a>. Provides a gem with tools that automate looking up lists of vocabulary words for the <a target="_blank" href="http://www.kanken.or.jp/kanken/outline/degree.html">Kanken</a>. Generates TSV files to create flashcards for an iOS app that I use to study Kanji.
