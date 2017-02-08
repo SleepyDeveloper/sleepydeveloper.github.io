@@ -3,6 +3,8 @@ layout: resume
 ---
 
 <div class="home">
+  {% include_relative _resume/profile.html %}
+  
   {% include_relative _resume/technical-skills.html %}
 
   {% include_relative _resume/work-experience.html work_experience=site.data.work-experience %}
