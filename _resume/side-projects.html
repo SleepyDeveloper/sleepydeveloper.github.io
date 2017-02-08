@@ -1,0 +1,12 @@
+<h2>Side Projects</h2>
+<hr /><br />
+<ul class="post-list">
+  {% for side_project in include.side_projects %}
+    {% if side_project.type == 'coding_project' %}
+      {% include side-project.html title=side_project.title link=side_project.link
+        technologies=side_project.technologies description=side_project.description %}
+    {% else %}
+      {% include work-experience.html work_experience=side_project %}
+    {% endif %}
+  {% endfor %}
+</ul>

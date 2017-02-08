@@ -1,0 +1,13 @@
+<h2>Education and Accolades</h2>
+<hr /><br />
+<ul class="post-list">
+  {% for degree in include.education_and_accolades %}
+  <li>
+    <strong>{{ degree.institution }}</strong>
+    <div class="work-dates">{{ degree.year }}</div>
+    <div>
+      {{ degree.degree }}
+    </div>
+  </li>
+  {% endfor %}
+</ul>
