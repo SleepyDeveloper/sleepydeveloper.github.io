@@ -1,0 +1,34 @@
+- company: Booktrope
+  title: Senior Web Architect
+  location: Los Angeles, California
+  duration: September 2013 - May 2016
+  description: I lead the R&D team at Booktrope. I was responsible for architecting and building most of the software. I interviewed and trained new hires on our methods and standards via pair programming.  I built various features and automation tools.
+  technologies:  Ruby, Ruby on Rails, Heroku, Redis, Parse Server, Objective-C, iOS, Amazon Web Services
+
+- company: CrossLanguage
+  title: Japanese-English Dictionary Manager
+  location: Tokyo, Japan
+  duration: September 2012-May 2013
+  description: I was the only American Employee. All communication was in Japanese. I was responsible for the Japanese-English dictionary. I fixed broken translations and wrote many tools to assist the translation engine and dictionary teams.  I lead meetings to introduce and train staff how to use the tools.
+  technologies: Ruby, Perl, C++, Bash Scripting
+
+- company: CrossLanguage
+  title: Japanese-English Dictionary Intern
+  location: Tokyo, Japan
+  duration: June 2012-August 2013
+  description: To prove my skills and accelerate the hiring process, I was hired as a free intern. I completed the three month hiring process in one and a half months. I added over 3000 words into the Japanese-English dictionary and learned how to use their proprietary tools. I built a web spider that I was given two weeks to work on in two days.
+  technologies: Perl, Various Proprietary Tools
+
+- company: CrownPeak
+  title: Senior Developer
+  location: Los Angeles, CA
+  duration: March 2009-August 2011
+  description: After learning the company's legacy API, I architected and lead the new C# API development team. Created tools to analyze template source code and determined the set of mission critical APIs and broke the process into three phases. I bridged the gap between Engineering and Production by acting as a liaison training production how to use the new API and made improvements based on feedback. Using C# .NET's documentation tags and sandcastle, I generated new API documentation that could be updated automatically as new APIs were added. I also added new features to the CMS product.
+  technologies: VBScript, C#/.NET, HTML, CSS, Javascript, Selenium
+
+- company: CrownPeak
+  title: Associate Web Application Engineer
+  location: Los Angeles, CA
+  duration: September 2006-February 2009
+  description: I integrated client's websites into the CMS product via the VBScript API. Consulted with clients about things such as SEO and developed dynamic front-end features for their sites. My implementation of an AJAX event calendar became the de facto standard. After experiencing much frustration over the lack of up to date documentation, I got permission to work with the Engineering team to update the API documentation.  I participated in the hiring process and trained new employees how to use the API.
+  technologies: VBScript, PHP, C#/.NET, HTML, CSS, Javascript, Perl

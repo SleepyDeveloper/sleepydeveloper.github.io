@@ -1,45 +1,13 @@
 <h2>Experience</h2>
 <hr /><br />
 <ul class="post-list">
+  {% for position in include.work_experience %}
   <li>
-    <strong>Senior Web Architect, Booktrope, Los Angeles, California</strong>
-    <div class="work-dates">September 2013 - May 2016</div>
+    <strong>{{ position.title }}, {{ position.company }}, {{ position.location }}</strong>
+    <div class="work-dates">{{ position.duration }}</div>
     <div class="work-description">
-      Price Changer
-      Sales Tracking
-      Stats Tracking
-      Hellosign
-      Teamtrope
+      {{ position.description }} (<strong>{{ position.technologies }}</strong>)
     </div>
   </li>
-  <li>
-    <strong>Japanese-English Dictionary Manager, CrossLanguage, Tokyo, Japan</strong>
-    <div class="work-dates">October 2012 - June 2013</div>
-    <div class="work-description">
-      Text Alignment
-      Japanese Patent Office
-    </div>
-  </li>
-  <li>
-    <strong>Japanese-English Dictionary Intern, CrossLanguage, Tokyo, Japan</strong>
-    <div class="work-dates">July 2012 - September 2012</div>
-  </li>
-  <li>
-    <strong>Senior Developer, CrownPeak, Engineering, Culver City, California</strong>
-    <div class="work-dates">March 2009 - August 2011</div>
-    <div class="work-description">
-      C# API Implementation
-      Google Web Site Optimizer
-    </div>
-  </li>
-  <li>
-    <strong>Web Application Engineer, CrownPeak, Culver City, California</strong>
-    <div class="work-dates">September 2006 - February 2009</div>
-    <div class="work-description">
-      Client Consulting and Implementation
-      AJAX Calendar
-      API Documention
-      Mentor
-    </div>
-  </li>
+  {% endfor %}
 </ul>

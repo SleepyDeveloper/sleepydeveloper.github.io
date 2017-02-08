@@ -1,22 +1,10 @@
 <li>
-  <div class="side-project">
-    <div class="heading">
-      <strong>{{ include.title }}</strong> {% if include.link %}
-      (<a href="{{ include.link }}" target="_blank">see on github</a>)
-      {% else %}
-      (not yet released to github)
-      {% endif %}
-    </div>
-    <hr />
-    <div class="contents">
-      <strong>Technology</strong>
-      <div>{{ include.technology }}</div>
-      <div class="summary">
-        <strong>Summary</strong>
-        <div>
-          {{ include.summary }}
-        </div>
-      </div>
-    </div>
+  <strong>{{ include.title }}</strong> {% if include.link %}
+  (<a href="{{ include.link }}" target="_blank">see on github</a>)
+  {% else %}
+  (not yet released to github)
+  {% endif %}
+  <div class="work-description">
+    {{ include.description }} (<strong>{{ include.technologies }}</strong>)
   </div>
 </li>
