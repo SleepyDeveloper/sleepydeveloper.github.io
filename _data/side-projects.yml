@@ -23,3 +23,9 @@
   link:
   technologies: Ruby, Ruby on Rails, Postgresql, Trollop
   description: A rails app with a database based on the <a target="_blank" href="http://www.edrdg.org/jmdict/j_jmdict.html">JMDict Project</a>. Provides a gem with tools that automate looking up lists of vocabulary words for the <a target="_blank" href="http://www.kanken.or.jp/kanken/outline/degree.html">Kanken</a>. Generates TSV files to create flashcards for an iOS app that I use to study Kanji.
+
+- title: SleepyDeveloper Tutorials
+  type: coding_project
+  link: https://github.com/sleepydeveloper/tutorials
+  technologies: github, youtube, iMovie, quicktime, node.js, aws, lambda
+  description: A development focused tutorial channel on <a href="https://www.youtube.com/channel/UCJhk5SbvNHvfzskDhtZf73g" target="_blank" >youtube.com</a>. It's a one man operation. I create the tutorials, narration script, screen capture, video edits, annotations, etc.
