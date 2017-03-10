@@ -5,7 +5,7 @@ date:   2017-03-08 19:30:00 -0800
 categories: misc
 ---
 
-Today was bittersweet. I paid a visit to CrownPeak where I worked a month shy of
+Today was bittersweet. I paid a visit to CrownPeak where I worked a month shy of 
 five years. It was my first job straight out of college. I learned so much from
 a team of wonderfully skilled and nice people. It was a wonderful place to work.
 They sold the company in winter 2015. On March 15th, the Los Angeles
