@@ -2,28 +2,28 @@
   title: Senior Web Architect
   location: Los Angeles, California
   duration: September 2013 - May 2016
-  description: I lead the R&D team at Booktrope. I was responsible for architecting and building most of the software. I interviewed and trained new hires on our methods and standards via pair programming.  I built various features and automation tools.
+  description: I led the R&D team at Booktrope. I was responsible for architecting and building most of the software. I interviewed and trained new hires on our methods and standards via pair programming.  I built various features and automation tools.
   technologies:  Ruby, Ruby on Rails, Heroku, Redis, Parse Server, Objective-C, iOS, Amazon Web Services
 
 - company: CrossLanguage
   title: Japanese-English Dictionary Manager
   location: Tokyo, Japan
   duration: September 2012-May 2013
-  description: I was the only American Employee. All communication was in Japanese. I was responsible for the Japanese-English dictionary. I fixed broken translations and wrote many tools to assist the translation engine and dictionary teams.  I lead meetings to introduce and train staff how to use the tools.
+  description: I was the only American Employee. All communication was in Japanese. I was responsible for the Japanese-English dictionary. I fixed broken translations and wrote many tools to assist the translation engine and dictionary teams.  I led meetings to introduce and train staff how to use the tools.
   technologies: Ruby, Perl, C++, Bash Scripting
 
 - company: CrossLanguage
   title: Japanese-English Dictionary Intern
   location: Tokyo, Japan
   duration: June 2012-August 2013
-  description: To prove my skills and accelerate the hiring process, I was hired as a free intern. I completed the three month hiring process in one and a half months. I added over 3000 words into the Japanese-English dictionary and learned how to use their proprietary tools. I built a web spider that I was given two weeks to work on in two days.
+  description: Due to visa constraints and to prove my skills and accelerate the hiring process, I was hired as an unpaid intern. I completed the three month hiring process in one and a half months. I added over 3000 words into the Japanese-English dictionary and learned how to use their proprietary tools. I built a web spider that I was given two weeks to work on in two days.
   technologies: Perl, Various Proprietary Tools
 
 - company: CrownPeak
   title: Senior Developer
   location: Los Angeles, CA
   duration: March 2009-August 2011
-  description: After learning the company's legacy API, I architected and lead the new C# API development team. Created tools to analyze template source code and determined the set of mission critical APIs and broke the process into three phases. I bridged the gap between Engineering and Production by acting as a liaison training production how to use the new API and made improvements based on feedback. Using C# .NET's documentation tags and sandcastle, I generated new API documentation that could be updated automatically as new APIs were added. I also added new features to the CMS product.
+  description: After learning the company's legacy API, I architected and led the new C# API development team. Created tools to analyze template source code and determined the set of mission critical APIs and broke the process into three phases. I bridged the gap between Engineering and Production by acting as a liaison training production how to use the new API and made improvements based on feedback. Using C# .NET's documentation tags and sandcastle, I generated new API documentation that could be updated automatically as new APIs were added. I also added new features to the CMS product.
   technologies: VBScript, C#/.NET, HTML, CSS, Javascript, Selenium
 
 - company: CrownPeak
