@@ -9,8 +9,8 @@
   title: Senior Software Developer
   location: Los Angeles, California
   duration: April 2017 - July 2017
-  description: 
-  technologies: PHP, MYSQL, Laravel, Stripe, Amazon Pay, WordPress
+  description: Designed and implemented single sign on to link 4 separate services to a single account removing customer friction which increased customer engagement. Built automated reporting tools to aggregate and send sales revenue to stakeholders. Implemented Amazon Pay across all e-commerce properties. 
+  technologies: PHP, React, MYSQL, Laravel, Stripe, Amazon Pay, WordPress, Amazon Web Services
 
 - company: Booktrope
   title: Senior Web Architect
