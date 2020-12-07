@@ -2,14 +2,14 @@
   title: Senior Solutions Architect
   location: Seattle, Washington
   duration: July 2017 - Present
-  description: Collaborated with internal teams to develop training and best practices for many products such as Alexa Conversations, In-skill Purchasing, and Dialog Management. Wrote the first end-to-end tutorial for building an engaging Alexa Skill (Cake Time). This has been widely used by internal and external developers. Led the effort to create on-boarding materials for Alexa Conversations. Served as lead subject matter expert while hosting weekly office hours on twitch and AMA sessions on slack to support the developer community. Served as the bridge between the customer and internal product teams to help prioritize the product roadmap based upon the voice of the community. Delivered over 80 speaking engagements and workshops on a wide variety of topics including voice design, monetizing skills, and Alexa Conversations. Delivered 4 presentations in Japanese at Alexa events in Tokyo.
+  description: I collaborated with internal teams to develop training and best practices for many products such as Alexa Conversations, In-skill Purchasing, and Dialog Management. I wrote the first end-to-end tutorial for building an engaging Alexa Skill (Cake Time). This has been widely used by internal and external developers. I led the effort to create on-boarding materials for Alexa Conversations and served as lead subject matter expert while hosting weekly office hours on twitch and AMA sessions on slack to support the developer community. I serve as the bridge between the customer and internal product teams to help prioritize the product roadmap based upon the voice of the community. Delivered over 80 speaking engagements and workshops on a wide variety of topics including voice design, monetizing skills, and Alexa Conversations. Delivered 4 presentations in Japanese at Alexa events in Tokyo.
   technologies: NodeJS, AWS Lambda, DynamoDB, Amazon S3, CloudWatch, Rise, Twitch
 
 - company: Zoe Media Group
   title: Senior Software Developer
   location: Los Angeles, California
   duration: April 2017 - July 2017
-  description: Designed and implemented single sign on to link 4 separate services to a single account removing customer friction which increased customer engagement. Built automated reporting tools to aggregate and send sales revenue to stakeholders. Implemented Amazon Pay across all e-commerce properties. 
+  description: I designed and implemented single sign on to link 4 separate services to a single account removing customer friction which increased customer engagement. Built automated reporting tools to aggregate and send sales revenue to stakeholders. Implemented Amazon Pay across all e-commerce properties. 
   technologies: PHP, React, MYSQL, Laravel, Stripe, Amazon Pay, WordPress, Amazon Web Services
 
 - company: Booktrope
