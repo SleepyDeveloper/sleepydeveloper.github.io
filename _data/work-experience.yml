@@ -1,7 +1,15 @@
 - company: Amazon
   title: Senior Solutions Architect
   location: Seattle, Washington
-  duration: July 2017 - Present
+  duration: January 2021 - Present
+  description: I work TV manufactures to integarate Alexa into their TVs. I help partners optimize their experience, adopt new features, and improve their customer experience. I funnel feedback from the partner to the product team to drive product improvements.
+  technologies: NodeJS, AWS Lambda, DynamoDB, Amazon S3, CloudWatch
+
+
+- company: Amazon
+  title: Senior Solutions Architect
+  location: Seattle, Washington
+  duration: July 2017 - December 2020
   description: I collaborated with internal teams to develop training and best practices for many products such as Alexa Conversations, In-skill Purchasing, and Dialog Management. I wrote the first end-to-end tutorial for building an engaging Alexa Skill (Cake Time). This has been widely used by internal and external developers. I led the effort to create on-boarding materials for Alexa Conversations and served as lead subject matter expert while hosting weekly office hours on twitch and AMA sessions on slack to support the developer community. I serve as the bridge between the customer and internal product teams to help prioritize the product roadmap based upon the voice of the community. Delivered over 80 speaking engagements and workshops on a wide variety of topics including voice design, monetizing skills, and Alexa Conversations. Delivered 4 presentations in Japanese at Alexa events in Tokyo.
   technologies: NodeJS, AWS Lambda, DynamoDB, Amazon S3, CloudWatch, Rise, Twitch
 
