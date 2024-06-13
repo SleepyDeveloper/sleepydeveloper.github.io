@@ -16,9 +16,7 @@
       <div class="trigger">
         {% assign my_pages = site.pages | sort:"n" %}
         {% for my_page in my_pages  %}
-          {% if my_page.title != 'Landmarks' %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
         {% endfor %}
       </div>
     </nav>
