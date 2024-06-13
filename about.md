@@ -18,7 +18,7 @@ reality TV star Rachel Zoe's company, and very well known and respected corporat
 in a foreign country.
 
 Five months after Japan was rocked with a 9.1 earthquake, tsunami and nuclear disaster, 
-I left **CrownPeak** 1 month shy of my five year anniversary and moved there. I earned spot
+I left **CrownPeak** 1 month shy of my five year anniversary and moved there. I had earned spot
 in Stanford's [Japanese immersion school in Yokohama](http://iucjapan.org). The selection 
 process is super competitive, since space is limited. I studied Japanese at a hole in the wall 
 night school for adults for 3 years while the majority of applicants were from IVY league 
@@ -51,9 +51,10 @@ presented in English through an interpreter. I'll never forget the energy and th
 audible gasp that rose up from from the audience as I shattered expectations greeting them 
 in Japanese. Thirty minutes later I wrapped my presentation and walked to the post-presentation
 Q&A counter to find a long line of attendees waiting to meet me. My Japanese colleagues joked 
-that I was famous in Japan, but they had a point. My Japanese twitter following increased, 
-Japanese Alexa Community members often asked when I would next come to Japan, and I went [viral](https://x.com/sleepydeveloper/status/1188252385342193664?s=12&t=RwuFBS6T-6FewkJ-RV2poA). My phone blew up for over 48 hours and many of my Japanese friends who didn't follow me kept messaging me asking why 
-I was organically appearing in their twitter feeds.
+that I was famous in Japan, but they had a point. The Japanese Alexa Community members often 
+inquired into when I would next come to Japan. I also went went [viral](https://x.com/sleepydeveloper/status/1188252385342193664?s=12&t=RwuFBS6T-6FewkJ-RV2poA) for a joke I tweeted. My phone blew 
+up for over 48 hours and many of my Japanese friends who didn't follow me kept messaging me 
+asking why I was organically appearing in their twitter feeds.
 
 The pandemic clipped our travel wings, so we turned to virutal events in order to continue
 reaching new audiences and bring excitement to the Alexa Developer Community. Three years into
@@ -78,5 +79,5 @@ creation and was going to feed into other initiatives that would empower externa
 to organize and host their own PyTorch meetups on our behalf.
 
 As I stand here on the mountain of life, I look over my shoulder to see how far I've climbed. It feels
-great to see all that I have accomplished over 15 years. As I turn to face the next part of the climb 
-shrouded in the clouds of mystery, I'm excited to see what will come next.
+great to see all that I have accomplished over 15 years. As I turn to face the next part of the climb,
+I'm excited to see what will come next. 
