@@ -1,0 +1,19 @@
+---
+layout: default
+title: Videos
+n: 1
+---
+<h2>Videos</h2>
+<hr /><br />
+
+<ul class="video-list">
+    {% for video in site.data.video-works %}
+    <li>
+        <div>
+          <a href="{{ video.url }}"><img height="180" width="240" src="{{ video.thumbnail }}" /></a>
+          <a href="{{ video.url }}">{{ video.title }}</a>
+          <p >{{ video.publication_date }} - {{ video.description }}</p>
+        </div>
+    </li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,195 @@
+- title: "PyTorch Community Voices: Interview with Refik Anadol Studio (Full Video)"
+  url: https://www.youtube.com/watch?v=Fv9XW22us9E
+  thumbnail: https://i.ytimg.com/vi/Fv9XW22us9E/hqdefault.jpg
+  publication_date: 2022/11/14
+  description: Art & AI/ML collaborate in creative ways, like how the Refik Anadol Studio is powered by PyTorch. Watch this full interview of Refik and Christian B. talking with Developer Advocates Suraj ​​Subramanian and Justin Jeffress about how the Studio uses PyTorch to turn data into pigments
+  platform: YouTube
+
+- title: "第15回Alexa道場：米国スキル開発最前線"
+  url: https://www.youtube.com/watch?v=Er4YpC0RkyA
+  thumbnail: https://i.ytimg.com/vi/Er4YpC0RkyA/hqdefault.jpg
+  publication_date: 2018/10/11
+  description: 米国からエバンジェリストを招いて、米国で人気のスキルや最新の機能など、Alexaスキルの最新開発事情をお届けします。
+  platform: YouTube  
+
+- title: "AWS re:Invent 2019: How developers can build natural, extensible voice conversations (ALX201-R2)"
+  url: https://www.youtube.com/watch?v=zgFBfQF1Ijw
+  thumbnail: https://i.ytimg.com/vi/zgFBfQF1Ijw/hqdefault.jpg
+  publication_date: 2019/12/10
+  description: The AI-driven dialog manager Alexa Conversations allows you to build Alexa skills that can gracefully handle nonlinear, unpredictable, human conversations. This session provides an overview of dialog management on Alexa and walks you through how to use Alexa Conversations to create flexible, multi-turn experiences for use cases like buying tickets, making recommendations, ordering transportation or food, and making reservations.
+  platform: YouTube  
+
+- title: Interacting With a Simple Hello World Alexa Skill
+  url: https://www.youtube.com/watch?v=cakcsuzS2DY
+  thumbnail: https://i.ytimg.com/vi/cakcsuzS2DY/hqdefault.jpg
+  publication_date: 2019/05/14
+  description: This video illustrates what happens when a user interacts with a simple Hello World Alexa skill.
+  platform: YouTube  
+
+- title: Overfilling Fail
+  url: https://www.youtube.com/watch?v=Gr59BrDWnIE
+  thumbnail: https://i.ytimg.com/vi/Gr59BrDWnIE/hqdefault.jpg
+  publication_date: 2018/07/11
+  description: This video illustrates what it looks like when one conversational partner fails to parse information provided all at once.
+  platform: YouTube  
+
+- title: Underfilling Fail
+  url: https://www.youtube.com/watch?v=cn308bvNBq4
+  thumbnail: https://i.ytimg.com/vi/cn308bvNBq4/hqdefault.jpg
+  publication_date: 2018/07/11
+  description: This video illustrates what it looks like when one conversational partner fails to recognize they already have the answer they need from context.
+  platform: YouTube  
+
+- title: "Designing In-skill Purchasing: Persistent Salesman"
+  url: https://www.youtube.com/watch?v=VNtNbrvg6UU
+  thumbnail: https://i.ytimg.com/vi/VNtNbrvg6UU/hqdefault.jpg
+  publication_date: 2019/09/03
+  description: Justin, role-playing as Alexa, demonstrates what it sounds like when a skill delivers upsell messages a little too persistently. Can you count the number of times Justin tries to sell Alison something?
+  platform: YouTube
+
+- title: "Designing In-skill Purchasing: Strong value proposition"
+  url: https://www.youtube.com/watch?v=Qkhh7sfWj9Y
+  thumbnail: https://i.ytimg.com/vi/Qkhh7sfWj9Y/hqdefault.jpg
+  publication_date: 2019/09/04
+  description: Justin, role-playing as Alexa,  demonstrates an upsell with a strong, clear value proposition. Justin gives Alison enough information about what her purchase includes without being too wordy. 
+  platform: YouTube      
+
+- title: "Designing In-skill Purchasing: DO NOT overwhelm with choices"
+  url: https://www.youtube.com/watch?v=Zcp9cOWooZM
+  thumbnail: https://i.ytimg.com/vi/Zcp9cOWooZM/hqdefault.jpg
+  publication_date: 2019/09/04
+  description: Justin, role-playing as Alexa, demonstrates what upsells might sound like when they attempt to offer too many purchases in one message. By the time Justin is done speaking, can you recall what the first in-skill purchase he offered Alison was?
+  platform: YouTube
+
+- title: "Designing In-skill Purchasing: DO keep it simple"
+  url: https://www.youtube.com/watch?v=JbB8lCKKa94
+  thumbnail: https://i.ytimg.com/vi/JbB8lCKKa94/hqdefault.jpg
+  publication_date: 2019/09/04
+  description: Justin, role-playing as Alexa, demonstrates how simple and concise an in-skill upsell message can be when it offers only one product.
+  platform: YouTube 
+
+- title: "Designing In-skill Purchasing: DO NOT bait and switch"
+  url: https://www.youtube.com/watch?v=CcjygNnVneQ
+  thumbnail: https://i.ytimg.com/vi/CcjygNnVneQ/hqdefault.jpg
+  publication_date: 2019/09/04
+  description: Justin, role-playing as Alexa, demonstrates how disappointing it is when a skill offers something to a customer, but then tells them they must pay for it after they express interest in it. Did you also think Alison would be getting more trivia right away when she said "yes"?
+  platform: YouTube 
+
+- title: "Designing In-skill Purchasing: Upsells, DO sell one relevant product"
+  url: https://www.youtube.com/watch?v=Su4gyTle6P8
+  thumbnail: https://i.ytimg.com/vi/Su4gyTle6P8/hqdefault.jpg
+  publication_date: 2019/09/04
+  description: "Justin, role-playing as Alexa, demonstrates what happens when a skill offers one in-skill purchase that is of the most relevance to the customer at a given time. Alison just finished playing a sports-themed daily game with a great score: How likely is she to purchase more content related to sports?"
+  platform: YouTube
+
+- title: "Designing In-skill Purchasing: DO NOT leave landmines"
+  url: https://www.youtube.com/watch?v=y7U6h8K3jK8
+  thumbnail: https://i.ytimg.com/vi/y7U6h8K3jK8/hqdefault.jpg
+  publication_date: 2019/09/04
+  description: Justin, role-playing as Alexa, demonstrates a "landmine experience" in a skill. Justin offers Alison a list of options, but Alison doesn't know which selections will result in an upsell message.
+  platform: YouTube
+
+- title: "Designing In-skill Purchasing: Upsells, DO NOT use threats or negative consequences"
+  url: https://www.youtube.com/watch?v=gmhqiqvuVOs
+  thumbnail: https://i.ytimg.com/vi/gmhqiqvuVOs/hqdefault.jpg
+  publication_date: 2019/09/04
+  description: Justin, role-playing as Alexa, demonstrates how poorly an upsell that uses threats or negative consequences is likely to be received by a listener. Justin threatens Alison with a drop in rank to sell a pack of hints. How likely are you to respond to such threats?
+  platform: YouTube
+
+- title: "Designing In-skill Purchasing: Handling transitions, A happy path"
+  url: https://www.youtube.com/watch?v=drU_E-uDcFI
+  thumbnail: https://i.ytimg.com/vi/drU_E-uDcFI/hqdefault.jpg
+  publication_date: 2019/09/04
+  description: Justin, role-playing as Alexa, demonstrates a seamless transition from in-skill upsell to Amazon purchase flow and back to the skill.
+  platform: YouTube
+
+- title: "Designing In-skill Purchasing: DO NOT make the customer dig for their purchases"
+  url: https://www.youtube.com/watch?v=OFCU-Sbh9zI
+  thumbnail: https://i.ytimg.com/vi/OFCU-Sbh9zI/hqdefault.jpg
+  publication_date: 2019/09/04
+  description: Justin, role-playing as Alexa,  demonstrates a skill that makes the customer work too hard to hear about what they've purchased. What if Alison had purchased 20 packs? She'll be there all day listening to Justin list them.
+  platform: YouTube
+
+- title: "Designing In-skill Purchasing: DO make it easy to find purchases"
+  url: https://www.youtube.com/watch?v=nr5XZZoeUoQ
+  thumbnail: https://i.ytimg.com/vi/nr5XZZoeUoQ/hqdefault.jpg
+  publication_date: 2019/09/04
+  description: Justin, role-playing as Alexa,  demonstrates a scenario where a skill offers the customer their most recent purchase first, and then offers several more options at a time when the customer declines.
+  platform: YouTube
+
+- title: "Designing In-skill Purchasing: DO NOT spend a consumable without permission"
+  url: https://www.youtube.com/watch?v=32y3ZazHNEU
+  thumbnail: https://i.ytimg.com/vi/32y3ZazHNEU/hqdefault.jpg
+  publication_date: 2019/09/04
+  description: Justin, role-playing as Alexa,  demonstrates how frustrating it is when a skill spends a consumable item that the customer paid for, without asking permission. How likely is Alison to trust that her purchases will be saved for exactly when she wants to use them in the future? Do you think she'll want to buy hints again?
+  platform: YouTube
+
+- title: "Designing In-skill Purchasing: DO ask for permission to spend a consumable"
+  url: https://www.youtube.com/watch?v=WRwykcVlxRY
+  thumbnail: https://i.ytimg.com/vi/WRwykcVlxRY/hqdefault.jpg
+  publication_date: 2019/09/04
+  description: Justin, role-playing as Alexa, demonstrates how a skill might collect permission from a customer to spend a consumable. Justin is transparent with Alison about how many free and paid hints Alison has left, and asks explicitly for permission to spend a hint when Alison asks about them.
+  platform: YouTube
+  
+- title: "re:Invent 2019 - Design an Alexa skill with in-skill purchasing"
+  url: https://www.twitch.tv/videos/543329179?filter=all&sort=time
+  thumbnail: https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/844ebf28a60e3e621eb1_amazonalexa_32111041705_7179970786//thumb/thumb543329179-240x180.jpg
+  publication_date: 2020/01/28
+  description: Justin, role-playing as Alexa, demonstrates how a skill might collect permission from a customer to spend a consumable. Justin is transparent with Alison about how many free and paid hints Alison has left, and asks explicitly for permission to spend a hint when Alison asks about them.
+  platform: Twitch
+
+- title: "Highlight: Design an Alexa Skill with In-Skill Purchasing with Alison Atwell Justin Jeffress"
+  url: https://www.twitch.tv/videos/510733821?filter=all&sort=time
+  thumbnail: https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/1a4ba5a9a501fc209e5a_amazonalexa_71783617877_2467301192//thumb/thumb510733821-240x180.jpg
+  publication_date: 2019/11/20
+  description: 
+  platform: Twitch
+
+- title: "Highlight: In-Skill Purchasing Design with Alison Atwell Justin Jeffress"
+  url: https://www.twitch.tv/videos/510731578?filter=all&sort=time
+  thumbnail: https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/cb509dc0b1df04fae7db_amazonalexa_47707446673_2885116801//thumb/thumb510731578-240x180.jpg
+  publication_date: 2019/11/20
+  description: 
+  platform: Twitch
+
+- title: "Voice-first Design: My Cactus with Alison Atwell and Justin Jeffress Episode 7"
+  url: https://www.twitch.tv/videos/823268971?collection=S81yydlkRBY-Pw
+  thumbnail: https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/b5c081e082f2c0dd2185_amazonalexa_40785565854_1606931962//thumb/thumb0-240x180.jpg
+  publication_date: 2020/12/02
+  description: 
+  platform: Twitch  
+
+- title: "Voice-first Design: My Cactus with Alison Atwell and Justin Jeffress Episode 8"
+  url: https://www.twitch.tv/videos/825511166?collection=S81yydlkRBY-Pw
+  thumbnail: https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/4013d4fd5a8113de180c_amazonalexa_40813592766_1607106555//thumb/thumb0-240x180.jpg
+  publication_date: 2020/12/04
+  description: 
+  platform: Twitch  
+
+- title: "Voice-first Design: My Cactus with Alison Atwell and Justin Jeffress Episode 9"
+  url: https://www.twitch.tv/videos/831262255?collection=S81yydlkRBY-Pw
+  thumbnail: https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/b15cf65dbdcde511af9f_amazonalexa_40885759006_1607536852//thumb/thumb0-240x180.jpg
+  publication_date: 2020/12/09
+  description: 
+  platform: Twitch  
+
+- title: "Voice-first Design: My Cactus with Alison Atwell and Justin Jeffress Episode 10"
+  url: https://www.twitch.tv/videos/833688320?collection=S81yydlkRBY-Pw
+  thumbnail: https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/5359259bdc81a80481af_amazonalexa_40915881630_1607709620//thumb/thumb0-240x180.jpg
+  publication_date: 2020/12/11
+  description: 
+  platform: Twitch  
+
+- title: "Voice-first Design: My Cactus with Alison Atwell, Joe Muoio, and Justin Jeffress Episode 11"
+  url: https://www.twitch.tv/videos/839522451?collection=S81yydlkRBY-Pw
+  thumbnail: https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/d9faffaf1dd1abb0a754_amazonalexa_40976263006_1608141541//thumb/thumb0-240x180.jpg
+  publication_date: 2020/12/16
+  description: 
+  platform: Twitch  
+  
+- title: "Voice-first Design: Let's Play My Cactus with Justin, Joe Muoio and Alison Episode 12"
+  url: https://www.twitch.tv/videos/841792511?collection=S81yydlkRBY-Pw
+  thumbnail: https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/67bb4324629207888e54_amazonalexa_40998323166_1608314459//thumb/thumb0-240x180.jpg
+  publication_date: 2020/12/18
+  description: 
+  platform: Twitch

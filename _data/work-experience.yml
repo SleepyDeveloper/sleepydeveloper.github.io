@@ -1,8 +1,22 @@
+- company: Meta
+  title:  Senior Developer Advocate
+  location: Seattle, Washington
+  duration: July 2022 - June 2023
+  description: I supported the Meta Open Source Software initiative as a Senior Developer Advocate specializing in the PyTorch framework. My role consisted of content generation, public speaking, community outreach, and demand generation. I worked with external partners (MIT) to develop and incubate workshops. I worked with the PyTorch marketing team to develop initiatives to scale advocacy to external community organizers. I worked with internal engineering and marketing teams to determine feature promotion prioritization, messaging, and value proposition coinciding with the PyTorch 2.0 announcement. I collaborated with Meta Open Source Software marketing to create a medium to recognize, humanize, and celebrate important actors in the Meta open source developer community launching with PyTorch. I created a playbook and content pipeline to enable other DAs to highlight contributors to their product domain.
+  technologies: Python, PyTorch, Streamyard
+
+- company: Amazon
+  title: Technical Product Manager
+  location: Seattle, Washington
+  duration: January 2022 - June 2022
+  description: I owned the Alexa Science Team's goal to pilot and launch flagship Alexa Skills with two external partners by EOY 2022. I worked closely with the Buisness Development team to determine potential flagship partners, created a scoring rubric to determine which partners to prioritize and built pitch decks tailored to each partner's business model to bring the flagship experience to the partner. Lead pitch meetings and signed two partners who were able to meet our timeframes while keeping commmunication lines open with those who were interested. I identified key internal and external stakeholders.  I defined the requirements and working backwards plan. I provided weekly progress reports to leadership.
+  technologies: 
+
 - company: Amazon
   title: Senior Solutions Architect
   location: Seattle, Washington
-  duration: January 2021 - Present
-  description: I work TV manufactures to integarate Alexa into their TVs. I help partners optimize their experience, adopt new features, and improve their customer experience. I funnel feedback from the partner to the product team to drive product improvements.
+  duration: January 2021 - December 2021
+  description: I worked with TV manufactures to integarate Alexa into their TVs. I helped partners identify and remove bottlenecks, adopt new features, and improve customer experience. I funneled feedback from the partner to the product team to drive product improvement. I idenfied inefficiencies with the imprint certification process and worked closely with my internal certification and partner to onboard them into a special expodited pilot program to optimize certificaitions for imprints.
   technologies: NodeJS, AWS Lambda, DynamoDB, Amazon S3, CloudWatch
 
 
@@ -10,7 +24,7 @@
   title: Senior Solutions Architect
   location: Seattle, Washington
   duration: July 2017 - December 2020
-  description: I collaborated with internal teams to develop training and best practices for many products such as Alexa Conversations, In-skill Purchasing, and Dialog Management. I wrote the first end-to-end tutorial for building an engaging Alexa Skill (Cake Time). This has been widely used by internal and external developers. I led the effort to create on-boarding materials for Alexa Conversations and served as lead subject matter expert while hosting weekly office hours on twitch and AMA sessions on slack to support the developer community. I serve as the bridge between the customer and internal product teams to help prioritize the product roadmap based upon the voice of the community. Delivered over 80 speaking engagements and workshops on a wide variety of topics including voice design, monetizing skills, and Alexa Conversations. Delivered 4 presentations in Japanese at Alexa events in Tokyo.
+  description: I collaborated with internal teams to develop training and best practices for many products such as Alexa Conversations, In-skill Purchasing, and Dialog Management. I wrote the first end-to-end tutorial for building an engaging Alexa Skill (Cake Time). This has been widely used by internal and external developers. I led the effort to create on-boarding materials for Alexa Conversations and served as lead subject matter expert while hosting weekly office hours on twitch and AMA sessions on slack to support the developer community. I serve as the bridge between the customer and internal product teams to help prioritize the product roadmap based upon the voice of the community. Delivered over 100 speaking engagements and workshops on a wide variety of topics including voice design, monetizing skills, and Alexa Conversations. Delivered 4 presentations in Japanese at Alexa events in Tokyo.
   technologies: NodeJS, AWS Lambda, DynamoDB, Amazon S3, CloudWatch, Rise, Twitch
 
 - company: Zoe Media Group

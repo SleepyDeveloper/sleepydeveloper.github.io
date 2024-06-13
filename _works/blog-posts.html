@@ -1,0 +1,10 @@
+<h2>Blog Posts</h2>
+<hr /><br />
+<ul class="post-list">
+  {% for blog_post in include.blog_posts %}
+    <li>
+        {{ blog_post.publication_date }} <a href="{{ blog_post.url }}">{{ blog_post.title }}</a>
+        <p>{{ blog_post.description }}</p>
+    </li>
+  {% endfor %}
+</ul>

@@ -2,18 +2,14 @@
 layout: default
 ---
 
-<h1>Posts</h1>
-<ul class="post-list">
-  {% for post in site.posts %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<div class="home">
+  {% include_relative _resume/profile.html %}
 
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      <p>
-       {% if post.excerpt %}{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endif %}
-      </p>
-    </li>
-  {% endfor %}
-</ul>
+  {% include_relative _resume/technical-skills.html %}
+
+  {% include_relative _resume/work-experience.html work_experience=site.data.work-experience %}
+
+  {% include_relative _resume/side-projects.html side_projects=site.data.side-projects %}
+
+  {% include_relative _resume/education-and-accolades.html education_and_accolades = site.data.education-and-accolades %}
+</div>

@@ -1,0 +1,65 @@
+- title: Taking Control of the Dialog Management State Machine
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2018/03/taking-control-of-the-dialog-management-state-machine
+  publication_date: 2018/03/16
+  description: Dialog management is a great way to collect the set of required slots that your intent needs to perform a task for your customers, since it greatly reduces the necessary coding required to reprompt for missing slot values.
+
+- title: Using Yes/No Intents with Dialog Management
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2018/04/using-yes-no-intents-with-dialog-management
+  publication_date: 2018/04/06
+  description: The AMAZON.YesIntent and AMAZON.NoIntent are useful for handling a “yes” or “no” utterance while improving dialog accuracy and creating more natural voice-first experiences.
+
+- title: "Build Advanced Alexa Skills: Confirm What Customers Want with Dialog Management"
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2018/05/build-advanced-alexa-skills-confirm-what-customers-want-with-dialog-management
+  publication_date: 2018/05/10
+  description: When your skill performs a task for the customer that requires information from them, it's a best practice to confirm you have the information you need before performing the task. 
+
+- title: Use the New Fallback Intent to Respond Gracefully to Unexpected Customer Requests
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2018/07/use-the-new-fallback-intent-to-respond-gracefully-to-unexpected-customer-requests
+  publication_date: 2018/07/12
+  description: The new AMAZON.FallbackIntent in the Alexa Skills Kit (ASK) built-in library helps you handle unexpected utterances, or when a customer says something that doesn't map to any intents in your skill. 
+
+- title: "Building Conversational Alexa Skills: How to Dynamically Elicit Slots Based on a Previous Answer Using Dialog Management"
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2018/11/building-conversational-alexa-skills-how-to-dynamically-elicit-slots-based-on-a-previous-answer-using-dialog-management
+  publication_date: 2018/11/02
+  description: Over the past few months, I've spent a lot of time deep diving into dialog management and sharing what I've learned with the Alexa developer community. 
+
+- title: Use Intent Chaining to Enter Dialog Management from a Different Intent
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/03/intent-chaining-for-alexa-skill
+  publication_date: 2019/03/01
+  description: It's no secret that dialog management is one of my favorite features in the Alexa Skills Kit. I've spent countless hours experimenting with it.
+
+- title: "New Alexa Skills Training Course: Build an Engaging Alexa Skill with Cake Time"
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/05/new-alexa-skills-training-course-build-your-first-alexa-skill-with-cake-time
+  publication_date: 2019/05/17
+  description: "We're excited to introduce our new self-paced skill-building course called Cake Time: Build an Engaging Alexa Skill."
+
+
+- title: "Alexa Skill Recipe Update: Making HTTP Requests to Get Data from an External API Using the ASK Software Development Kit for Node.js Version 2"
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/05/alexa-skill-recipe-update-making-http-requests-to-get-data-from-an-external-api-using-the-ask-software-development-kit-for-node-js-version-2
+  publication_date: 2019/05/23
+  description: I love interacting with the Alexa developer community. Your thirst for knowledge constantly challenges me to experiment and dive deep into many voice-related topics.
+
+- title: "Getting Started with the Cake Time Course: Designing the Voice User Interface (VUI) for Your Alexa Skill"
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/06/getting-started-with-the-cake-time-course-designing-the-voice-user-interface-vui-for-your-alexa-skill
+  publication_date: 2019/06/04
+  description: Great voice design is the foundation for an engaging Alexa skill, which is why it is the starting point for the Cake Time course.
+
+- title: "Getting Started with the Cake Time Course: Using Auto-Delegation to Collect Slots Turn by Turn"
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/06/getting-started-with-the-cake-time-course-using-auto-delegation-to-collect-slots-turn-by-turn
+  publication_date: 2019/06/10
+  description: Unlike a Hollywood movie, real conversations are not scripted. There are many factors that can affect conversation such as the number of participants, time of day, mood, amount of caffeine consumed, and so on. 
+
+- title: "Getting Started with the Cake Time Course: Adding Memory to the Cake Time Skill to Remember the Customer's Birthday"
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/06/getting-started-with-the-cake-time-course-adding-memory-to-the-cake-time-skill-to-remember-the-customer-s-birthday
+  publication_date: 2019/06/15
+  description: In my previous post on designing the Cake Time skill, I did a deep dive on situational design. Instead of a flow chart, my colleague and I focused on the conversation and used situational design. 
+
+- title: "Getting Started with Cake Time: Using the Alexa Settings API to Look Up the Device Time Zone"
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/07/getting-started-with-cake-time-using-the-alexa-settings-api-to-look-up-the-device-time-zone
+  publication_date: 2019/07/02
+  description: In my previous post on adding memory to cake time, I walked through the process of adding memory to the Cake Time skill so your skill can remember your customer's birthday.
+
+- title: "New Alexa Skills Training Course: How to Design for In-Skill Purchasing"
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/10/new-alexa-skills-training-course-how-to-design-for-in-skill-purchasing
+  publication_date: 2019/10/16
+  description: In order to effectively monetize your Alexa skills, you need to design an experience that inspires your customers to continue using your skill over and over. While a portion of the experience depends on the technical implementation (code, information architecture, APIs, etc.) it can only go as far as your voice interaction design. So we created a design-focused course to help you design a skill with in-skill purchasing. You’ll learn what makes great premium content, when to make offers, how to write offers, how to handle transitions to and from the Amazon Purchase flow, and how to provide access to purchases.
