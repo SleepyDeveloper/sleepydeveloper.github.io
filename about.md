@@ -1,15 +1,12 @@
 ---
-layout: page
+layout: default
 title: About
 n: 3
 ---
 
-<div>
-  <img style="" src="/assets/profile.jpg" height="150px" width="150px" />
-</div>
+{% include_relative _includes/profile.html %}
 
 Hello!
-
 
 I'm a software developer with 15 years work experience. I've had the opportunity to work 
 at a startup - **Booktrope**, at **Zoe Media Group** - Hollywood fashion consultant and 
