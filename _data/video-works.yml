@@ -40,6 +40,104 @@
   description: This video illustrates what it looks like when one conversational partner fails to recognize they already have the answer they need from context.
   platform: YouTube  
 
+- title: Conditional Flexibility
+  url: https://www.youtube.com/watch?v=gBExTNrGgMQ
+  thumbnail: https://i.ytimg.com/vi/gBExTNrGgMQ/hqdefault.jpg
+  publication_date: 2018/07/11
+  description: This video illustrates what it looks like when one conversational partner asks for information they technically already have.
+  platform: YouTube  
+
+- title: Cognitive Load Fail
+  url: https://www.youtube.com/watch?v=8CMeYuPK8cM
+  thumbnail: https://i.ytimg.com/vi/8CMeYuPK8cM/hqdefault.jpg
+  publication_date: 2018/07/11
+  description: This video illustrates what it looks like when one conversational partner expects too much of another.
+  platform: YouTube  
+
+- title: Context Switching Fail
+  url: https://www.youtube.com/watch?v=pUdZhAri9Nk
+  thumbnail: https://i.ytimg.com/vi/pUdZhAri9Nk/hqdefault.jpg
+  publication_date: 2018/07/11
+  description: This video illustrates what it looks like when one conversational partner fails to switch context between different intentions.
+  platform: YouTube 
+
+- title: Advanced Conversational Design workshop with Justin Jeffress at VOICE18
+  url: https://www.youtube.com/watch?v=UTOX8SSt72w
+  thumbnail: https://i.ytimg.com/vi/UTOX8SSt72w/hqdefault.jpg
+  publication_date: 2018/07/26
+  description: This is a live cast of a workshop titled Advanced Conversational Design with Dialog Manager that was lead by Alexa Evangelist Justin Jeffress @SleepyDeveloper at the 2018 Voice Summit.
+  platform: YouTube 
+
+- title: 想定よりも少ない情報を言われた場合の失敗例
+  url: https://www.youtube.com/watch?v=fzppyy8Rmdw
+  thumbnail: https://i.ytimg.com/vi/fzppyy8Rmdw/hqdefault.jpg
+  publication_date: 2018/10/11
+  description: このビデオでは、聞き手が要求している情報に対して、話し手が認識できなかった（必要な情報を言ってくれなかった）場合に起こる失敗例を実演しています。
+  platform: YouTube
+
+- title: コンテキスト切り替えの失敗
+  url: https://www.youtube.com/watch?v=xw9PfQ91OPU
+  thumbnail: https://i.ytimg.com/vi/xw9PfQ91OPU/hqdefault.jpg
+  publication_date: 2018/10/11
+  description: このビデオでは、会話している二人の一方が、異なるインテントへのコンテキスト切り替えがうまくできていない様子を実演しています。
+  platform: YouTube
+
+- title: 認知負荷が重すぎる失敗
+  url: https://www.youtube.com/watch?v=0oYVrGx75Mg
+  thumbnail: https://i.ytimg.com/vi/0oYVrGx75Mg/hqdefault.jpg
+  publication_date: 2018/10/11
+  description: このビデオでは、会話している二人の一方が多くの情報を求めすぎている様子を実演しています。
+  platform: YouTube
+
+- title: 条件に応じた柔軟な対応の不足
+  url: https://www.youtube.com/watch?v=Xb-CFHalh90
+  thumbnail: https://i.ytimg.com/vi/Xb-CFHalh90/hqdefault.jpg
+  publication_date: 2018/10/11
+  description: このビデオは、会話している二人の一方が、二人が既に持っているはずの情報を再び尋ねた場合、または既に得られた情報から導き出されるはずの情報を繰り返し聞き返した場合に起きる問題を実演しています。
+  platform: YouTube
+
+- title: 想定よりも多くの情報を言われた場合の失敗例
+  url: https://www.youtube.com/watch?v=zyeOmFfjQsk
+  thumbnail: https://i.ytimg.com/vi/zyeOmFfjQsk/hqdefault.jpg
+  publication_date: 2018/10/11
+  description: このビデオでは、会話の相手が聞き手が想定するよりも多くの情報を一度に言われた場合に起こる失敗例を実演しています。
+  platform: YouTube
+
+- title: 確認が少なすぎる失敗
+  url: https://www.youtube.com/watch?v=p0KP8aveFLA
+  thumbnail: https://i.ytimg.com/vi/p0KP8aveFLA/hqdefault.jpg
+  publication_date: 2018/12/13
+  description: このビデオでは、ユーザーから受け取った情報の確認が少なすぎるため、ユーザーに不安を抱かせる失敗例を実演しています。
+  platform: YouTube
+
+- title: 前回の会話の内容を記憶していない失敗
+  url: https://www.youtube.com/watch?v=52SUq0_1WhY 
+  thumbnail: https://i.ytimg.com/vi/52SUq0_1WhY/hqdefault.jpg
+  publication_date: 2018/12/13
+  description: 前回の会話の内容を記憶していないため、何度も同じことをユーザーに聞いてしまう失敗例を実演しています。
+  platform: YouTube
+
+- title: 確認時に混乱してしまう失敗
+  url: https://www.youtube.com/watch?v=cY3R1SpU_dM
+  thumbnail: https://i.ytimg.com/vi/cY3R1SpU_dM/hqdefault.jpg
+  publication_date: 2018/12/13
+  description: 受け取った個別の情報は正しくても、確認時に情報を整理できず混乱してしまった失敗例を実演しています。
+  platform: YouTube
+
+- title: 確認が多すぎる失敗
+  url: https://www.youtube.com/watch?v=CWKIpuc-Itg
+  thumbnail: https://i.ytimg.com/vi/CWKIpuc-Itg/hqdefault.jpg
+  publication_date: 2018/12/13
+  description: 
+  platform: YouTube
+
+- title: ユーザーへの問いかけ方の失敗
+  url: https://www.youtube.com/watch?v=Wt3oaS9j3gk
+  thumbnail: https://i.ytimg.com/vi/Wt3oaS9j3gk/hqdefault.jpg
+  publication_date: 2018/12/13
+  description: このビデオでは、ユーザーに問いかける際の話し方の失敗例を示しています。このケースでは「和食、中華、洋食のどれにしますか？」と聞けば、「和食にします」と答えてくれるでしょう。
+  platform: YouTube
+
 - title: "Designing In-skill Purchasing: Persistent Salesman"
   url: https://www.youtube.com/watch?v=VNtNbrvg6UU
   thumbnail: https://i.ytimg.com/vi/VNtNbrvg6UU/hqdefault.jpg

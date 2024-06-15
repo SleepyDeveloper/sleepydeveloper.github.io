@@ -1,0 +1,8 @@
+<ul class="post-list">
+    {% for tutorial in include.tutorials %}
+        <li>
+            <a href="{{ tutorial.url }}">{{ tutorial.name }}</a>
+            <p>{{ tutorial.description }}</p>
+        </li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,15 @@
+- name: Designing for Conversation
+  url: https://web.archive.org/web/20190206132752/https://developer.amazon.com/ask-resources/guided/conversational-design-workshop/#/
+  description: "Archived on Wayback Machine: Follow along as we dive into the design methods we recommend you use to develop engaging conversational voice user interfaces (VUI). In this course you'll follow the process we used to design “The Foodie” skill for Alexa — imagining and analyzing user interactions through a series of exercises aimed at exposing and designing around the nuances of human conversation."
+
+- name: Build an Engaging Alexa Skill
+  url: https://developer.amazon.com/en-US/docs/alexa/workshops/build-an-engaging-skill/get-started/index.html
+  description: Start building quickly with our beginner tutorial. You'll get hands-on, step-by-step experience creating your first custom Alexa skill.
+
+- name: How to Design for In-Skill Purchasing
+  url: https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/design-for-in-skill-purchasing
+  description: Learn best practices for selling premium content in your skill.
+
+- name: Build Multi-turn Skills with Alexa Conversations
+  url: https://developer.amazon.com/en-US/docs/alexa/workshops/build-multi-turn-skills/get-started/index.html
+  description: Learn how to build a skill using machine learning with Alexa Conversations.

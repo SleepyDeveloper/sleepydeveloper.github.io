@@ -1,12 +1,42 @@
+- title: "New Alexa Skills Training Course: How to Design for In-Skill Purchasing"
+  url: https://developer.amazon.com/en-US/blogs/alexa/post/555d00d6-66b4-4f0b-8974-2021cd9a1630/alexa-skill-teardown-decoding-dialog-management-with-pet-matc
+  publication_date: 2018/01/12
+  description: When building conversational user interfaces, it's important to think about continued engagement and high-quality interactions. During a recent webinar on advanced voice design techniques, we shared some best practices for applying advanced features like dialog management, entity resolution, and memory to enable customers to engage in multi-turn conversations with Alexa skills.
+
+- title: "Alexa Skill Teardown: Understanding Entity Resolution with the Pet Match Skill"
+  url: https://developer.amazon.com/en-US/blogs/alexa/post/cfbd2f5e-c72f-4b03-8040-8628bbca204c/alexa-skill-teardown-understanding-entity-resolution-with-pet-matc
+  publication_date: 2018/01/16
+  description: Today, we'll focus on Entity Resolution, which enables you to add synonyms to your slot values and validate that a user actually said one of them. The Alexa service will then handle resolving the synonyms to your slot values. This simplifies your code since you don't have to write any code to match the synonym that user said to your slot value.
+
+- title: "Updated Tutorial: Enable Multi-Turn Dialog with Decision Tree Sample Skill"
+  url: https://developer.amazon.com/en-US/blogs/alexa/post/5b0efd02-0ed0-42d5-b922-5ee594d30a38/new-alexa-skills-kit-template-build-an-alexa-decision-tree-skil
+  publication_date: 2018/01/23
+  description: As you create more Alexa skills, you can add advanced features to deliver a more conversational experience to your users. We recently updated the decision tree sample skill to use dialog management and entity resolution. Previously the skill asked a set of yes/no questions. Depending upon the answer, Alexa would ask a follow-up question. Once the user answered the last question, the skill would recommend a vocation to the user.
+
 - title: Taking Control of the Dialog Management State Machine
   url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2018/03/taking-control-of-the-dialog-management-state-machine
   publication_date: 2018/03/16
   description: Dialog management is a great way to collect the set of required slots that your intent needs to perform a task for your customers, since it greatly reduces the necessary coding required to reprompt for missing slot values.
 
+- title: Using Dialog Management to Capture A and B or C Slots
+  url: https://developer.amazon.com/en-US/blogs/alexa/post/44dd83f4-4842-40c5-91f8-3868b9f4608c/using-dialog-management-to-capture-a-and-b-or-c-slot
+  publication_date: 2018/03/23
+  description: During Alexa Dev Days, my colleagues and I have been leading a voice design workshop that focuses on voice-first experience design and leans on dialog management to simplify collecting a set of required slots that an intent needs to perform its task for the user.
+
+- title: How to Enable Alexa to Switch Context Mid-Conversation with Dialog Management
+  url: https://developer.amazon.com/en-US/blogs/alexa/post/d8579cd6-9109-42b2-ada6-df017fc1dee5/how-to-handle-different-intent-requests-with-dialog-managemen
+  publication_date: 2018/03/29
+  description: When you have a natural conversation with another person, you might find the conversation can take different directions. Therefore, the context of the conversation can change quite rapidly. With dialog management, you can ensure your skill is able to handle context switching.
+
 - title: Using Yes/No Intents with Dialog Management
   url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2018/04/using-yes-no-intents-with-dialog-management
   publication_date: 2018/04/06
   description: The AMAZON.YesIntent and AMAZON.NoIntent are useful for handling a “yes” or “no” utterance while improving dialog accuracy and creating more natural voice-first experiences.
+
+- title: Eliciting Slots Dynamically with Dialog Management
+  url: https://developer.amazon.com/en-US/blogs/alexa/post/5fe7565a-9547-4e03-be36-6c62ed356d57/dynamically-elicit-slots-during-dialog-management-based-on-previously-given-slot-value
+  publication_date: 2018/04/12
+  description: At Alexa Dev Days, my colleagues and I lead a voice design workshop that focuses on voice-first experiences and shows how to capture a set of slot values through a turn-by-turn conversation with a user. I was recently asked, "I'm making a skill that recommends products. Can I change the question that Alexa asks to fill my slot(s) and can I make an optional slot required?"
 
 - title: "Build Advanced Alexa Skills: Confirm What Customers Want with Dialog Management"
   url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2018/05/build-advanced-alexa-skills-confirm-what-customers-want-with-dialog-management
@@ -18,6 +48,11 @@
   publication_date: 2018/07/12
   description: The new AMAZON.FallbackIntent in the Alexa Skills Kit (ASK) built-in library helps you handle unexpected utterances, or when a customer says something that doesn't map to any intents in your skill. 
 
+- title: Advanced Skill Building with Dialog Management
+  url: https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/guide/Dialog-Management-Guide.pdf
+  publication_date: 2018/08/01
+  description: Conversations are dynamic, moving between topics and ideas fluidly. Through voice, we are able to converse with technology, which is far more engaging than clicking buttons on a screen. To create truly engaging conversational voice experiences, you’ll need to incorporate flexibility and responsiveness in your Alexa skills. Your skills should be able to handle variations of conversation, conditional collection of data, and switching context mid-conversation without losing track of what's being said.
+
 - title: "Building Conversational Alexa Skills: How to Dynamically Elicit Slots Based on a Previous Answer Using Dialog Management"
   url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2018/11/building-conversational-alexa-skills-how-to-dynamically-elicit-slots-based-on-a-previous-answer-using-dialog-management
   publication_date: 2018/11/02
@@ -27,12 +62,22 @@
   url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/03/intent-chaining-for-alexa-skill
   publication_date: 2019/03/01
   description: It's no secret that dialog management is one of my favorite features in the Alexa Skills Kit. I've spent countless hours experimenting with it.
+  
+
+- title: インテントチェーンを使って別のインテントのダイアログを管理する
+  url: https://developer.amazon.com/en-US/blogs/alexa/post/b3939b11-5cef-4598-b2f9-c7ad904e1692/understanding-intent-chainin
+  publication_date: 2019/04/02
+  description: 実は、ダイアログ管理は私のお気に入りのAlexa Skills Kit機能の1つです。長い時間をかけていろいろな実験をしてきました。スキルの質を高めるコンテキスト切り替え（英語）や柔軟な条件付け（英語）といった便利なテクニックは、こうして開発できたのです。中には、Alexaイベントや@SleepyDeveloperを通して開発者から頂いた質問にインスパイアされたものもあります。Alexa Skills Kitチームでは日々、ダイアログ管理に新しい機能を追加し、更新を行っています。どれもユーザーとのやり取りを向上させるすばらしい機能ばかりです。今日はその中から、インテントチェーンをご紹介します。
+
+- title: 6 Dialog Management Resources to Build Advanced Alexa Skills
+  url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/03/intent-chaining-for-alexa-skill
+  publication_date: 2019/04/19
+  description: Conversations are not scripted. When you ask someone a question, the person may or may not provide all of the information that was asked. They may even provide more. When designing your Alexa skill, it’s important to start with this conversation in mind. In an Alexa skill, a dialog with the user is a conversation with multiple turns in which Alexa asks questions and the user responds with the answers.
 
 - title: "New Alexa Skills Training Course: Build an Engaging Alexa Skill with Cake Time"
   url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/05/new-alexa-skills-training-course-build-your-first-alexa-skill-with-cake-time
   publication_date: 2019/05/17
   description: "We're excited to introduce our new self-paced skill-building course called Cake Time: Build an Engaging Alexa Skill."
-
 
 - title: "Alexa Skill Recipe Update: Making HTTP Requests to Get Data from an External API Using the ASK Software Development Kit for Node.js Version 2"
   url: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/05/alexa-skill-recipe-update-making-http-requests-to-get-data-from-an-external-api-using-the-ask-software-development-kit-for-node-js-version-2

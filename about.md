@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-n: 3
+n: 4
 ---
 
 {% include_relative _includes/profile.html %}
@@ -24,11 +24,12 @@ nature take away the opportunity I spent five years diligently preparing for. Af
 I spent one year working at a Japanese company in Tokyo - but an opportunity to work at a 
 startup company drew me back to the US.
 
-My time at Hybrid book publisher, **Booktrope** turned out to be a major defining moment of 
-my career.  They hired me to be developer number one and head of R&D. It was a great learning 
-experience because I had my hands in everything across a bunch of technologies, rails, postgresql, jquery, react, heroku, parse server, aws, ec2, wordpress, php, and iOS (objective-c). I also 
-lead the team and imposed our development standards and lead roundtables on where the 
-technology should beheaded. It was a tremendous growth experience.
+My time at **Booktrope** turned out to be a major defining moment of my career.  They hired 
+me to be developer number one and head of R&D. It was a great learning experience because I 
+had my hands in everything across a bunch of technologies, rails, postgresql, jquery, react, 
+heroku, parseserver, aws, ec2, wordpress, php, and iOS (objective-c). I also lead the team 
+and imposed our development standards and lead roundtables on where the technology should 
+beheaded. It was a tremendous growth experience.
 
 Sadly, we ran out of money and I lost my job. Not knowing where to go next, I went to Japan, 
 did some interviews, and received some offers, however, I decided to look for opportunities in 
