@@ -21,7 +21,7 @@ highly limited, so the selection process is super competitive. I had studied Jap
 years, however 3 years were spent at a night school for adults. The majority of applicants 
 were from IVY league schools like, Stanford, Yale, and Carnegie Melon. There was no way I 
 was going to let the situation deter me from my dream. After Graduation, I spent a year 
-working at a Japanese company in Toky. An opportunity to work at a startup company drew me 
+working at a Japanese company in Tokyo. An opportunity to work at a startup company drew me 
 back to the US.
 
 My time at **Booktrope** turned out to be adefining moment of my career.  They hired me to 
