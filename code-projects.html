@@ -1,0 +1,18 @@
+---
+layout: default
+title: Code Projects
+n: 4
+---
+<h2>Code Projects</h2>
+<p>
+Below you will find the code projects I created during my tenure at Amazon and Meta. 
+</p>
+<hr /><br />
+<ul class="post-list">
+  {% for code_project in site.data.code-projects %}
+    <li>
+        {{ code_project.publication_date }} <a href="{{ code_project.url }}">{{ code_project.title }}</a>
+        <p>{{ code_project.description }}</p>
+    </li>
+  {% endfor %}
+</ul>

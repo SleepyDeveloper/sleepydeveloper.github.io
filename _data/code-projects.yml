@@ -1,0 +1,27 @@
+- title: Build an Engaging Alexa Skill
+  url: https://github.com/alexa-samples/skill-sample-nodejs-first-skill
+  description: I built this sample skill for the <a href="https://developer.amazon.com/en-US/docs/alexa/workshops/build-an-engaging-skill/get-started/index.html">Build an Engaging Alexa Skill</a> tutorial. I collaborated with Alexa Skills Marketing to built the Alexa Skill Builder onboarding email campagin around this tutorial. Starting with introducing the core fundamentals, utterances, slots, and intents, the tutorial introduces the API building blocks necessary to collect slots, recall user input, and reduce cognitive load by proactively using Alexa features. The skill and tutorial are modular, which enables learners to skip what they already know and dive right into the concepts they wish to learn.
+
+- title: Build An Alexa Pet Match Skill
+  url: https://github.com/alexa-samples/skill-sample-nodejs-petmatch
+  description: I created this sample skill to demonstrate how to use Dialog Managment to collect slots in order to recommend a dog based on a set of preferences. Development of this skill lead me to dive deep into multi-turn dialog voice user interface design and implementation. I went on to become the mutli-turn dialog domain lead.
+
+- title: Tutorial Build Multi-turn Skills with Alexa Conversations
+  url: https://github.com/alexa-samples/skill-sample-nodejs-alexa-conversations-pet-match
+  description: Alexa Conversations fundamentally changed the way to develop Alexa Skills. Alexa Conversations uses a set of sample utterances to build and train an AI/ML model to automatically handle slot elicitation during conversation. To demonstrate the differences between Alexa Conversations and Dialog Management to build a multi-turn skill, I recreated the Pet Match skill with Alexa Conversations. This project became the basis for the <a href="https://www.youtube.com/watch?v=zgFBfQF1Ijw">compare and contrast session</a> at re:Invent 2019.
+
+- title: Sample Skill - Sauce Boss
+  url: https://github.com/alexa-labs/skill-sample-nodejs-sauce-boss
+  description: This skill debuted at re:Invent 2018 to supplment a modular workshop designed to teach developers how to build skills with Alexa Presentation Language for screen enabled Alexa Devices like the Echo Show. Developers who attended the workshop received early access to the APL beta which had just been announced. 
+
+- title: My Cactus Simulation Alexa Game
+  url: https://github.com/alexa-samples/skill-sample-nodejs-web-api-my-cactus
+  description: I created this project with Alexa User Interface Designer, Allison Atwell and Alexa Gaming domain lead Joe Muoio to demonstrate how to design and build an Alexa game kkill with a professional team.  Allison prepared a set of design assets. Live on twitch, I implemented the VUI and core game engine logic and Joe Muoio implemented the web API game experience. Upon completion, Allison, Joe and I did a 12-episode series where we dove deep into the process we took to build the skill.
+
+- title: Build An Alexa Meal Recommendation Skill
+  url: https://github.com/alexa-samples/skill-sample-nodejs-the-foodie
+  description: The Foodie served as the sample skill to supplment the <a href="https://web.archive.org/web/20190206132752/https://developer.amazon.com/ask-resources/guided/conversational-design-workshop/#/">Designing for Conversation</a> workshop, which we debuted at VoiceSummit 2018. The workshop taught developers how to design and build an Alexa Skill. It was a our first time builidng a modular tutorial outside of readme files, complete with shorts video clips to demonstrate the dont's of voice user interface design. The clips were very well received and were used to create social media ads to promote the tutorial. With a score of 4.7 out of 5, the workshop was the highest rated workshop at VoiceSummit. 
+
+- title: Introduction to AI/ML Programming
+  url: https://github.com/fbsamples/mit-dl-workshop
+  description: Suraj and I collaborated on this workshop with professors at MIT to create an introduction to AI/ML programming with PyTorch. The workshop teaches the fundametnals of AI/ML. The 3 coding projects teach learners the basic AI/ML pipeline and how to integrate AI tools into their existing projects. 
