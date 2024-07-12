@@ -16,7 +16,7 @@
 
 - title: My Cactus Simulation Alexa Game
   url: https://github.com/alexa-samples/skill-sample-nodejs-web-api-my-cactus
-  description: I created this project with Alexa User Interface Designer, Allison Atwell and Alexa Gaming domain lead Joe Muoio to demonstrate how to design and build an Alexa game kkill with a professional team.  Allison prepared a set of design assets. Live on twitch, I implemented the VUI and core game engine logic and Joe Muoio implemented the web API game experience. Upon completion, Allison, Joe and I did a 12-episode series where we dove deep into the process we took to build the skill.
+  description: I created this project with Alexa User Interface Designer, Allison Atwell and Alexa Gaming domain lead Joe Muoio to demonstrate how to design and build an Alexa game skill with a professional team.  Allison prepared a set of design assets. Live on twitch, I implemented the VUI and core game engine logic and Joe Muoio implemented the web API game experience. Upon completion, Allison, Joe and I did a 12-episode series where we dove deep into the process we took to build the skill.
 
 - title: Build An Alexa Meal Recommendation Skill
   url: https://github.com/alexa-samples/skill-sample-nodejs-the-foodie
@@ -24,4 +24,4 @@
 
 - title: Introduction to AI/ML Programming
   url: https://github.com/fbsamples/mit-dl-workshop
-  description: Suraj and I collaborated on this workshop with professors at MIT to create an introduction to AI/ML programming with PyTorch. The workshop teaches the fundametnals of AI/ML. The 3 coding projects teach learners the basic AI/ML pipeline and how to integrate AI tools into their existing projects. 
+  description: At Meta my colleague Suraj and I collaborated on this workshop with professors at MIT to create and pilot an introduction to AI/ML programming with PyTorch. The workshop teaches the fundametnals of AI/ML. The 3 coding projects teach learners the basic AI/ML pipeline and how to integrate AI tools into their existing projects. This modular workshop was to be our foundation to build a series of modular tutorials, so they could be combined as needed to tailor a workshop based upon audience needs. This was to serve our "meetup in a box" initiative to expand our team's advocacy reach beyond our team.
