@@ -2,6 +2,11 @@
   <strong>{{ include.work_experience.title }}, {{ include.work_experience.company }}, {{ include.work_experience.location }}</strong>
   <div class="work-dates">{{ include.work_experience.duration }}</div>
   <div class="work-description">
-    {{ include.work_experience.description }} (<strong>{{ include.work_experience.technologies }}</strong>)
+    <ul>
+      {% for description in include.work_experience.description  %}
+      <li>{{ description}}</li>
+      {% endfor %}
+    </ul>
+    (<strong>{{ include.work_experience.technologies }}</strong>)
   </div>
 </li>

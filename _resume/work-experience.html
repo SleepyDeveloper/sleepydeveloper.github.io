@@ -6,7 +6,11 @@
     <strong>{{ position.title }}, {{ position.company }}, {{ position.location }}</strong>
     <div class="work-dates">{{ position.duration }}</div>
     <div class="work-description">
-      {{ position.description }} 
+      <ul>
+        {% for description in position.description  %}
+        <li>{{ description}}</li>
+        {% endfor %}
+      </ul>
       {% if position.technologies %}
       (<strong>{{ position.technologies }}</strong>)
       {% endif %}

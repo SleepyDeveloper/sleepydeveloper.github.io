@@ -2,69 +2,117 @@
   title:  Senior Developer Advocate
   location: Seattle, Washington
   duration: July 2022 - June 2023
-  description: I supported the Meta Open Source Software initiative as a Senior Developer Advocate specializing in the PyTorch framework. My role consisted of strategic planning, content generation, public speaking, community outreach, and demand generation. I worked with external partners to develop and incubate workshops. I worked with internal marketing teams to develop initiatives to scale advocacy to external community organizers. I worked with internal teams to determine feature promotion prioritization, messaging, and value proposition for new feature releases.
-  technologies: Python, PyTorch, Streamyard
+  description:
+    - Led a team of 2 developer advocates supporting PyTorch initiatives. 
+    - Drove strategic planning, content creation, public speaking, community outreach, and demand generation. 
+    - Tripled advocacy reach by equipping and partnering with external community organizers. 
+    - Reached over X developers and Y minutes watched through PyTorch 2.0 launch initiatives. 
+    - Collaborated with external partners to create, launch, and evaluate 2 workshops with an average 4.7/5 rating.
+    - Established a content pipeline, and marketing promotion plan for feature releases.
+  technologies: 
 
 - company: Amazon
-  title: Technical Product Manager
+  title: Technical Project Manger
   location: Seattle, Washington
   duration: January 2022 - June 2022
-  description: I supported the Alexa Science Team's goal to pilot and launch flagship Alexa Skills with external partners. I worked closely with the Business Development team to determine potential flagship partners and created a scoring rubric to determine a prioritization list. I built pitch decks tailored to each partner's business model to propose how an Alexa integration would benefit their brand. Lead pitch meetings and worked closely with marketing, and legal teams to sign partners able to commit to launch timeframes. Established a catalog of interested partners to revisit when timing and commits aligned. I identified key internal and external stakeholders and defined the requirements and working backwards plan.
+  description:
+    - Supported the Alexa Science Team's goal to pilot and launch flagship Alexa Skills with external partners.
+    - Worked closely with the Business Development team to identify 30 potential partners.
+    - Defined the scoring rubric to determine pitch prioritization and pitched 15 partners in one-month.
+    - Led pitch meetings and coordinated with marketing and legal to secure partners.
+    - Established a catalog of potential partners for future projects. Directed a two-person team responsible for creating flagship partner skills in-house.
+    - Defined requirements and updated stakeholders weekly on progress.
+
   technologies: 
 
 - company: Amazon
   title: Senior Solutions Architect
   location: Seattle, Washington
   duration: January 2021 - December 2021
-  description: I worked with TV manufactures to integrate Alexa into their TVs. I helped partners identify and remove bottlenecks, adopt new features, and improve customer experience. I funneled feedback from the partner to the product team to drive product improvement. I identified inefficiencies with the imprint certification process and worked closely with my internal certification and partner to onboard them into a special expedited pilot program to optimize certifications for imprints.
-  technologies: NodeJS, AWS Lambda, DynamoDB, Amazon S3, CloudWatch
-
+  description: 
+    - Worked with 3 video partners to integrate Alexa into TV sets.
+    - Helped partners remove bottlenecks, adopt new features, and improve customer experience.
+    - Identified the root cause of a major session timeout, worked with partner to fix it, reducing lag 90%.
+    - Shared partner feedback with the product team to influence priorities and roadmap.
+    - Streamlined certification testing, increasing throughput, productivity, while reducing product delays.
+    - Mentored and prepared 5 colleagues to deliver presentations for Alexa Live.  
+  technologies: 
 
 - company: Amazon
-  title: Senior Solutions Architect
+  title: Senior Developer Advocate
   location: Seattle, Washington
   duration: July 2017 - December 2020
-  description: I collaborated with internal teams to develop training and best practices for many products such as Alexa Conversations, In-skill Purchasing, and Dialog Management. I wrote the first end-to-end tutorial for building an engaging Alexa Skill (Cake Time). This has been widely used by internal and external developers. I led the effort to create on-boarding materials for Alexa Conversations and served as lead subject matter expert while hosting weekly office hours on twitch and AMA sessions on slack to support the developer community. I serve as the bridge between the customer and internal product teams to help prioritize the product roadmap based upon the voice of the community. Delivered over 100 speaking engagements and workshops on a wide variety of topics including voice design, monetizing skills, and Alexa Conversations. Delivered 4 presentations in Japanese at Alexa events in Tokyo.
-  technologies: NodeJS, AWS Lambda, DynamoDB, Amazon S3, CloudWatch, Rise, Twitch
+  description: 
+    - Authored 30 blogs, 4 training courses, and a white paper, generating thousands of engagement minutes.
+    - Published 5 Alexa sample skill projects on GitHub earning 1000s of stars and forks.
+    - Recruited and led the team, behind the AWS Alexa Skill Builders training course.
+    - Hosted 20 hackathons, driving feature adoption and leading to the publication of 100s of innovative skills.
+    - Delivered 100 talks and workshops, onboarding over 150k developers. Used third-party tools to rank feature requests, leading to the option of 5 community-driven features.
+    - Mentored and educated two new hires and guided them through their first projects.
+    - Worked with global teams to establish a localization strategy increasing productivity 70%.
+    - Gave five presentations in Japanese at Alexa events in Tokyo and Osaka
+  technologies: 
 
 - company: Zoe Media Group
   title: Senior Software Developer
   location: Los Angeles, California
   duration: April 2017 - July 2017
-  description: I designed and implemented single sign on to link 4 separate services to a single account removing customer friction which increased customer engagement. Built automated reporting tools to aggregate and send sales revenue to stakeholders. Implemented Amazon Pay across all e-commerce properties. 
-  technologies: PHP, React, MYSQL, Laravel, Stripe, Amazon Pay, WordPress, Amazon Web Services
+  description: 
+    - Unified four services under single sign-on, reducing confusion, cutting support requests and boosting engagement.
+    - Built automation tools to aggregate and report sales revenue to stakeholders.
+    - Integrated Amazon Pay across all e-commerce platforms, increasing revenue streams 3x.
+    - Fixed a subscription bug and collaborated with billing to recover revenue.
+  technologies: 
 
 - company: Booktrope
   title: Senior Web Architect
   location: Los Angeles, California
   duration: September 2013 - May 2016
-  description: I led the R&D team at Booktrope. I was responsible for architecting and building most of the software. I interviewed and trained new hires on our methods and standards via pair programming.  I built various features and automation tools.
-  technologies: Ruby, Ruby on Rails, Heroku, Redis, Parse Server, Objective-C, iOS, Amazon Web Services
+  description: 
+    - Led Booktrope's R&D, developing and testing 90% of the software.
+    - Interviewed and mentored new hires, and implemented pair programming for onboarding.
+    - Built a system to track book rankings, optimize cover design, marketing, and author recruitment.
+    - Developed pricing automation for eBooks, streamlining promotions and contractual pricing.  
+  technologies: 
 
 - company: CrossLanguage
   title: Japanese-English Dictionary Manager
   location: Tokyo, Japan
   duration: September 2012-May 2013
-  description: I was the only American Employee. All communication was in Japanese. I was responsible for the Japanese-English dictionary. I fixed broken translations and wrote many tools to assist the translation engine and dictionary teams.  I led meetings to introduce and train staff how to use the tools.
-  technologies: Ruby, Perl, C++, Bash Scripting
+  description: 
+    - Communicated exclusively in Japanese as the sole American employee.
+    - Maintained an improved Japanese-English translation engine's rules.
+    - Automated translation tasks, boosting team efficiency through tool creation. 
+    - Instructed colleagues on automation tools for better workflow.
+  technologies: 
 
 - company: CrossLanguage
   title: Japanese-English Dictionary Intern
   location: Tokyo, Japan
   duration: June 2012-August 2013
-  description: Due to visa constraints and to prove my skills and accelerate the hiring process, I was hired as an unpaid intern. I completed the three month hiring process in one and a half months. I added over 3000 words into the Japanese-English dictionary and learned how to use their proprietary tools. I built a web spider that I was given two weeks to work on in two days.
-  technologies: Perl, Various Proprietary Tools
+  description: 
+    - Hired as an unpaid intern due to visa limits, completing the hiring process in half the time. 
+    - Added 3,000+ words to the Japanese-English dictionary in record time.
+    - Built a web spider in two days, a scheduled for two weeks.
+  technologies: 
 
 - company: CrownPeak
   title: Senior Developer
   location: Los Angeles, CA
   duration: March 2009-August 2011
-  description: Using my knowledge of the legacy VBScript API, I led the new C# API development project. I created tools to analyze template source code to determine mission critical APIs. I broke the project into three phases - p0, p1 and p2. I bridged the gap between Engineering and Production by acting as a liaison training production how to use the new API and made improvements based on feedback. I used C# .NET's documentation tags and sandcastle to generate new API documentation that could be updated automatically as new APIs were added.
-  technologies: VBScript, C#/.NET, HTML, CSS, Javascript, Selenium
+  description: 
+    - Led the new C# API development project.
+    - Created tools to analyze template code and maintain API documentation, enhancing workflow.
+    - Bridged communication between Engineering and Production for API enhancements.
+    - Educated Production to use the new API and made improvements based on feedback. 
+  technologies: 
 
 - company: CrownPeak
   title: Associate Web Application Engineer
   location: Los Angeles, CA
   duration: September 2006-February 2009
-  description: I acted as client account/project manager and developer. During the implementation phase I met regularly with clients to report progress, answer questions, and discuss solutions to SEO, Data Architecture, and front-end related questions. My implementation of an AJAX event calendar became the de facto standard for all clients who required an event calendar.  I became API documentation owner when I identified many missing and undocumented API functions from our internal docs. I worked with the engineering team to update the documentation.
-  technologies: VBScript, PHP, C#/.NET, HTML, CSS, Javascript, Perl
+  description: 
+    - Managed client projects, solving CMS, SEO, Data Architecture, backend and front end issues.
+    - Developed a widely adopted AJAX event calendar.
+    - Owned API documentation, updating missing functions, improving internal docs alongside Engineering.
+  technologies: 

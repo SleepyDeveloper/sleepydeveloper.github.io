@@ -6,7 +6,8 @@ n: 0
 
 <div class="home">
   {% include_relative _includes/profile.html %}
-  {% include_relative _resume/work-experience.html work_experience=site.data.work-experience %}
+  {% include_relative _resume/executive-summary.html executive_summary=site.data.executive-summary.executive_summary %}
+  {% include_relative _resume/work-experience.html work_experience = site.data.work-experience %}
   {% include_relative _resume/technical-skills.html %}
   {% include_relative _resume/education-and-accolades.html education_and_accolades = site.data.education-and-accolades %}
 </div>
