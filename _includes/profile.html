@@ -1,3 +1,6 @@
+{% assign startsWith = '/ja-JP/'' %}
+{% assign checkArray = page.url | split:startsWith %}
+
 <div>
   <img style="" src="/assets/profile.jpg" height="150px" width="150px" />
 </div>
@@ -14,9 +17,28 @@
   <p>
      {% include icon-linkedin.html %} 
   </p>
+
+  {% if checkArray[0] != '' %}
   <p>
     {% include icon-pdf.html %}
     <a target="_blank" href="/assets/justin-jeffress-resume.pdf">Download Resume</a>
   </p>
+  {% else %}
+  <p>
+    {% include icon-pdf.html %}
+    <a target="_blank" href="/assets/justin-jeffress-resume-ja-JP.pdf">履歴書</a>
+    
+  </p>
+  <p>
+    {% include icon-pdf.html %}
+    <a target="_blank" href="/assets/justin-jeffress-work-history-ja-JP.pdf">職務経歴書</a>
+  </p>
+  {% endif %}
+
 </div>
+
+{% if checkArray[0] != '' %}
 <a href="/ja-JP/resume.html" >🇯🇵日本語はこちら</a><br />
+{% else %}
+<a href="/resume.html">🇺🇸English</a>
+{% endif %}
